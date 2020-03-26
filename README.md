@@ -7,8 +7,8 @@
 Welcome to the Java CorDapp template. The CorDapp template is a stubbed-out CorDapp that you can use to bootstrap 
 your own CorDapps.
 
-***This is the Java version of the CorDapp template. The Kotlin equivalent is 
-[here](https://github.com/corda/cordapp-template-kotlin/).***
+**This is the Java version of the CorDapp template. The Kotlin equivalent is 
+[here](https://github.com/corda/cordapp-template-kotlin/).**
 
 # Pre-Requisites
 
